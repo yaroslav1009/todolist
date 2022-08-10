@@ -49,7 +49,8 @@ input{
 .container {
     margin: auto;
     padding: 20px;
-    width: 500px;
+    max-width: 500px;
+    min-width: 300px;
     background-color:darkgray;
 }
 .form-control {
